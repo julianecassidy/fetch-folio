@@ -11,7 +11,7 @@ My dog and I started agility training and I wanted a simple way to track her pro
 - Event calendar to track upcoming classes, day care, competitions, vet visits, and more.
 - Option to track multiple dogs in the same user account.
 
-This is a fullstack app with a React front end, Flask back end with a REST API, and Postgres database. You can access the repo for the back end here.
+This is a fullstack app with a React front end, Flask back end with a REST API, and Postgres database. You can access the repo for the back end [here](https://github.com/julianecassidy/fetch-folio-backend).
 
 A mostly up to date database schema, API routes list, React component map, and basic wireframes can be found [here](https://miro.com/app/board/uXjVMk6Oz6w=/?share_link_id=69951837818).
 

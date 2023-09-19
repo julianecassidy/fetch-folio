@@ -11,6 +11,7 @@ My dog and I started agility training and I wanted a simple way to track her pro
 - Event calendar to track upcoming classes, day care, competitions, vet visits, and more.
 - Option to track multiple dogs in the same user account.
 
+The dog who inspired this project is Indy and she is a very good girl. She will be paying our dog tax:
 [Dog tax](/indy.jpg)
 
 ### Built With
@@ -19,7 +20,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 * [![Gatsby][Gatsby.js]][Gatsby-url]
 * [![React][React.js]][React-url]
-* [![Postgres][PostgresSQL.org]][Postgress-url]
+* [![Postgres][PostgresSQL.org]][Postgres-url]
 
 ## Getting Started
 

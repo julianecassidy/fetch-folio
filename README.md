@@ -1,10 +1,17 @@
 # FetchFolio
 
-Simple overview of use/purpose.
+Track your dog's training progress.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+My dog and I started agility training and I wanted a simple way to track her progress. Then I decided I wanted to log all of the tricks she knows. Enter FetchFolio. This is a lightweight web app that features:
+
+- Ability to record all of the commands you and your dog are working on with verbal commands, video, profeciency rating, training notes, and more.
+- Command dictionary for easy entry and inspiration for your next training step.
+- Event calendar to track upcoming classes, day care, competitions, vet visits, and more.
+- Option to track multiple dogs in the same user account.
+
+[Dog tax](/indy.jpg)
 
 ### Built With
 

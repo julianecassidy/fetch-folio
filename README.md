@@ -4,7 +4,7 @@ Track your dog's training progress.
 
 ## Description
 
-My dog and I started agility training and I wanted a simple way to track her progress. Then I decided I wanted to log all of the tricks she knows. Enter FetchFolio. This is a lightweight web app that features:
+My dog and I started agility training and I wanted a simple way to track her progress. Then I decided I wanted to log all of the tricks she knows, her upcoming events, maybe the current value of her stock portfolio. Enter FetchFolio. This is a lightweight web app that features:
 
 - Ability to record all of the commands you and your dog are working on with verbal commands, video, profeciency rating, training notes, and more.
 - Command dictionary for easy entry and inspiration for your next training step.
@@ -18,13 +18,28 @@ A mostly up to date database schema, API routes list, React component map, and b
 The dog who inspired this project is Indy and she is a very good girl. She will be paying our dog tax:
 [Dog tax](/indy.jpg)
 
+
+### Current Status
+
+The initial database model is complete with this schema:
+![Database Schema](/fetchfolio-database-schema.png)
+
+I am currently building out the API routes for the app before starting on the front end. Initial wireframes for the front end (prioritizing mobile only currently):
+
+![Wireframe](/fetchfolio-wireframes.png)
+
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+The languages and frameworks in this project include:
 
-* [![Gatsby][Gatsby.js]][Gatsby-url]
+Front End:
 * [![React][React.js]][React-url]
+
+Back End:
 * [![Postgres][PostgresSQL.org]][Postgres-url]
+* Python
+* Flask
+* SQLAlchemy
 
 ## Getting Started
 
